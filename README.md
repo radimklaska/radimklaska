@@ -1,6 +1,6 @@
 ![Uuuh! This looks fake!](https://raw.githubusercontent.com/radimklaska/radimklaska/master/commit_invaders.gif)
 
-OK, ok... Scroll down for real data. Gif credits: https://commit-art.netlify.app/ / https://www.producthunt.com/posts/commit-art
+OK, ok... Scroll down for real data. Gif credits: https://commit-art.netlify.app/
 
 <!--
 **radimklaska/radimklaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
