@@ -1,4 +1,4 @@
-![Uuuh! This looks fake!](github.pn)
+![Uuuh! This looks fake!](github.png)
 <!--
 **radimklaska/radimklaska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
